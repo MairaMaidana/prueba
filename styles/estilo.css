@@ -1,0 +1,13 @@
+.contenido ul {
+  padding: 50px;
+  background-image: linear-gradient(rgb(206, 40, 76), rgb(228, 90, 136), rgb(238, 163, 179));
+  border-radius: 50px;
+}
+.contenido ul li {
+  color: blueviolet;
+}
+
+header {
+  background-color: blueviolet;
+  padding: 50px;
+}/*# sourceMappingURL=estilo.css.map */
